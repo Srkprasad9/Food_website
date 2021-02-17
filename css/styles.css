@@ -1,5 +1,5 @@
 .row-header{
-    margin:10px;
+    margin:0px;
     padding:0px 0px 10px 0px;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .jumbotron {
-    padding:50px 40px 50px 0px;
+    padding:70px 30px 70px 30px;
     margin:0px 0px 0px 0px;
     background: #9575CD ;
     color:floralwhite;
@@ -31,4 +31,12 @@ address{
 .align-items-center{
     margin:0px auto;
     padding: 0px;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
 }
